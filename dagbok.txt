@@ -11,3 +11,12 @@ Vi kom gemensamt fram till att göra "enkla lösningar" på våra uppgifter. Det
 Handledarmöte. Vi filar på rapporten och fortsätter utvecklingen av projektet och planeringen i vår kanban.
 Vi fixade ett script för att hämta hem de äldre listorna från systembolaget från Henriks och Rikards sida "http://rameau.sandklef.com/systembolaget/?fbclid=IwAR1Hah_jqpcBVkLsVlOYW-A-dYIQoK6zbZauD1OvS5zfAS164oweUuIKXcc"
 Git ignorerar nu också mappen med de äldre listorna så den inte pushas upp.
+
+2019-05-20
+
+Arbetat med att få programmet att läsa in produktnamn från XML-filen och lägga in detta i en ArrayList. Kikat på olika lösningar
+såsom JAXB och DOM. Skrivit testprogram men får det inte att fungera riktigt.
+
+Skriver gemensamt på grupprapporten.
+
+Handledarmöte:

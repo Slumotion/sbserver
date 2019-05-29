@@ -1,1 +1,8 @@
+Jämföra (äldsta datumet först):
 mvn exec:java -Dexec.mainClass=se.gu.ait.sbserver.main.TestSwing -DProductLine=DB -Dexec.args="yyyyMMdd yyyyMMdd"
+
+Hämta gammal data:
+mvn exec:java -Dexec.mainClass=se.gu.ait.sbserver.main.TestSwing -DProductLine=DB -Dexec.args="yyyyMMdd"
+
+Hämta ny data:
+mvn exec:java -Dexec.mainClass=se.gu.ait.sbserver.main.TestSwing -DProductLine=DB
